@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "svitlana.tsymbaliuk@gmail.com",
+    "longName": "Gradient",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_litter_crop.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Gradient",
+    "uuid": "75a790ce-7625-45e0-a422-85f97925f6df",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
